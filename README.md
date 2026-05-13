@@ -75,7 +75,7 @@ Iris-EDA-Project/
 ├── Iris_EDA.ipynb
 ├── iris.csv
 ├── README.md
-└── images/
+
 ```
 
 ---
